@@ -1,0 +1,1 @@
+const t="https://utsavkumar-lal.vercel.app/",e=["Svelte","SvelteKit","Template","Blog","Starter","Static Site"],s="Hello, welcome to my personal website",a="Utsav Lal",l=`${t}/images/utsav_at_beach.jpg`;export{s as d,l as i,e as k,t as s,a as t};
